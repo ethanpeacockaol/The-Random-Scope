@@ -4,8 +4,6 @@ A tool to visualize the distributional space between randomly generated numbers 
 
 
 please see 
-https://github.com/ethanpeacockaol/DataChains_pythonlistsforANYprogramminglanguage/blob/main/slicing_wip/slicing_todo.ipynb
-data chains slicing_wip previous x anim and code to generate the random scope
+[random scope notebook demo](the-random-scope.ipynb)
 
-
-Todo: add the random scope
+![demo](scoped.gif)
