@@ -9,6 +9,7 @@ please see
 [random scope notebook demo](the-random-scope.ipynb)
 
 ![demo](scoped.gif)
+^ animation created by logic from drawing below
 
 <hr>
 
