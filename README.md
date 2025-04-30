@@ -8,7 +8,7 @@ aka -> any unkown data
 please see 
 [random scope notebook demo](the-random-scope.ipynb)
 
-![demo](scoped.gif)
+![demo](scoped.gif)  
 ^ animation created by logic from drawing below
 
 <hr>
