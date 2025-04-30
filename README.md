@@ -13,3 +13,4 @@ please see
 <hr>
 
 ![draw](previousxanim.gif)
+^ very similar to the operating system loop
