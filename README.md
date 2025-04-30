@@ -9,3 +9,7 @@ please see
 [random scope notebook demo](the-random-scope.ipynb)
 
 ![demo](scoped.gif)
+
+<hr>
+
+![draw](previousxanim.gif)
